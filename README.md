@@ -1,7 +1,7 @@
-Hey there, I’m @Pastamaster74
+#Hey there, I’m @Pastamaster74
 
-I make programs and I'm currently learning java and I'm exited to show my progress here
+I make programs and I'm currently learning java
 
--- I'm interested in --
+#-- I'm interested in --
 - programming
 - technology
