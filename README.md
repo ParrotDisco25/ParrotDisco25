@@ -4,9 +4,9 @@ I make programs and games in my free time.
 
 I use vscode for writing code
 
-I use Windows and Linux
+I use Linux
 
-I'm currently learning : C
+I'm currently learning: C
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParrotDisco25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="most used languages graph"  />
 
