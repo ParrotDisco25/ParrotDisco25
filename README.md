@@ -1,6 +1,5 @@
 # Hey there, I’m @ParrotDisco25
 
- - I sometimes make programs and put them here
  - Rust is a cool programming language
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ParrotDisco25&layout=donut&langs_count=4&theme=city_lights)](https://github-stats-extended.vercel.app/api/top-langs?username=ParrotDisco25&layout=donut&langs_count=4&theme=city_lights)
